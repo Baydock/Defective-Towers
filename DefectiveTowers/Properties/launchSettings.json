@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "BloonsTD6": {
+      "commandName": "Executable",
+      "executablePath": "C:\\Users\\xande\\Games\\steam\\steamapps\\common\\BloonsTD6\\BloonsTD6.exe",
+      "commandLineArgs": "--melonloader.debug",
+      "workingDirectory": "C:\\Users\\xande\\Games\\steam\\steamapps\\common\\BloonsTD6"
+    }
+  }
+}

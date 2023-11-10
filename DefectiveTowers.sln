@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DefectiveTowers", "DefectiveTowers\DefectiveTowers.csproj", "{DBFB9408-E455-461B-815B-8BA54CAD3D3B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBFB9408-E455-461B-815B-8BA54CAD3D3B}.Debug|x64.ActiveCfg = Debug|x64
+		{DBFB9408-E455-461B-815B-8BA54CAD3D3B}.Debug|x64.Build.0 = Debug|x64
+		{DBFB9408-E455-461B-815B-8BA54CAD3D3B}.Release|x64.ActiveCfg = Release|x64
+		{DBFB9408-E455-461B-815B-8BA54CAD3D3B}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {37DE0001-D9F9-4083-9B95-BC945D156A65}
+	EndGlobalSection
+EndGlobal
